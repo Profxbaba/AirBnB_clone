@@ -1,6 +1,6 @@
 # AirBnB Project
 
-AirBnB is an online platform for where tourists can get affordable homes for vacation purposes. The AirBnB project is aimed at building a clone of the AirBnB platform, to teach the fundamental of software engineering and web application development.
+AirBnB is an online platform where tourists can get affordable homes for vacation purposes. The AirBnB project is aimed at building a clone of the AirBnB platform, to teach the fundamentals of software engineering and web application development.
 
 ## AirBnB Project - The console
 
