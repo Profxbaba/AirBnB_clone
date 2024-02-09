@@ -15,11 +15,11 @@ It will be capable of doing the following functions:
 - Destroy an object
 
 
-###  how to start it:
+###  How to start it:
 In order to start the console, you must use the following command:
 ```./console.py```
 
-# How To Use:
+### How To Use:
 
 - manage (create, update, destroy, etc) objects via a console / command interprete
 - store and persist objects to a file (JSON file)
@@ -51,6 +51,6 @@ EOF  help  quit
 $
 ```
 
-## Contact Info:
-### Git: vicedo19 and Profxbaba
+### Contact Info:
+Git: vicedo19 and Profxbaba
 
