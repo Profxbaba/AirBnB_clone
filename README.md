@@ -1,11 +1,9 @@
 # AirBnB Project
-
 AirBnB is an online platform where tourists can get affordable homes for vacation purposes. The AirBnB project is aimed at building a clone of the AirBnB platform, to teach the fundamentals of software engineering and web application development.
 
 ## AirBnB Project - The console
 
 The console is a command interpreter (a sort of mini shell) for managing the objects of our project.
-
 It will be capable of doing the following functions:
 
 - Create a new object (ex: a new User or a new Place)
@@ -13,7 +11,6 @@ It will be capable of doing the following functions:
 - Do operations on objects (count, compute stats, etc…)
 - Update attributes of an object
 - Destroy an object
-
 
 ###  How to start it:
 In order to start the console, you must use the following command:
@@ -31,7 +28,6 @@ From the command line, enter the following code to open the command interpreter 
 ```
 $ ./console.py
 ```
-
 Once the console is opened, you will see the following info on the screen.
 You can type "help" or "?" to see documented commands, or "help" followed by the specific command, to know what the command does.
 
@@ -50,6 +46,5 @@ EOF  help  quit
 (hbnb) quit
 $
 ```
-
 ### Contact Info:
 Git: vicedo19 and Profxbaba
