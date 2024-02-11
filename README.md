@@ -14,7 +14,6 @@ It will be capable of doing the following functions:
 - Update attributes of an object
 - Destroy an object
 
-
 ###  How to start it:
 In order to start the console, you must use the following command:
 ```./console.py```
@@ -43,13 +42,6 @@ You can type "help" or "?" to see documented commands, or "help" followed by the
 
 Documented commands (type help <topic>):
 ========================================
-EOF  help  quit
-
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$
-```
 
 ### Contact Info:
 Git: vicedo19 and Profxbaba
